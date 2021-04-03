@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@vaisakh__m"
+  username               : "@m__vaisakh"
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@vaisakh__m"
+  twitter          : "@m__vaisakh"
   vine             :
   weibo            :
   xing             :
@@ -182,8 +182,8 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
+  portfolio:
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
