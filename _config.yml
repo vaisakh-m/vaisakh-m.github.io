@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-IN"
-title                    : "Vaisakh M / Personal Website"
+title                    : "Vaisakh M"
 title_separator          : "-"
 name                     : &name "Vaisakh M"
 description              : &description "personal description"
@@ -177,12 +177,13 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path/
+    permalink: /
+    title: "About me"
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
+#   portfolio:
+#     output: true
     permalink: /:collection/:path/
   talks:
     output: true
