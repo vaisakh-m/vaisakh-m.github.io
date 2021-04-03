@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My home on the web!
+I'm a senior undergrad in the EE dept. at IIT Palakkad.
 
-Karma is a boomerang
+My research interests are: Deep Learning, Computer Vision, Information Theory
+
+Specific subfields are: 3D Reconstruction, Deep Generative Modeling, Semi-Supervised Learning and Self-Supervised Learning
