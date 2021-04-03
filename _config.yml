@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-IN"
-title                    : "Vaisakh M / Vaisakh M"
+title                    : "Vaisakh M / Personal Website"
 title_separator          : "-"
 name                     : &name "Vaisakh M"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @vaisakh__m
+  username               : "@vaisakh__m"
 facebook:
   username               :
   app_id                 :
