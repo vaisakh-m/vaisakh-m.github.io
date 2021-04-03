@@ -12,4 +12,4 @@ I'm a senior undergrad in the EE dept. at IIT Palakkad.
 
 My research interests are: Deep Learning, Computer Vision, Information Theory
 
-Specific subfields are: 3D Reconstruction, Deep Generative Modeling, Semi-Supervised Learning and Self-Supervised Learning
+Specific subfields are: 3D Reconstruction, Deep Generative Modeling, Self-Supervised Learning, Tensor Completion, Tensor Factorization
