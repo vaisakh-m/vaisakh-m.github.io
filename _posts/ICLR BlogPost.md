@@ -1,3 +1,13 @@
+---
+title: 'ICLR Blog Post'
+date: 2121-01-14
+permalink: /posts/2021/01/iclr-blog-post/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 <!-- ![](https://i.imgur.com/HIGRfyY.jpg) -->
 ![](https://i.imgur.com/yii8lxs.gif)
 
